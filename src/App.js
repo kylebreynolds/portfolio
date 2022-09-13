@@ -4,7 +4,7 @@ import "./index.css";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Portfolio from "./components/Portfolio";
-
+import Resume from "./components/Resume";
 const anchors = ["About", "Portfolio", "Resume", "Contact"];
 
 const App = () => (
@@ -27,9 +27,6 @@ const App = () => (
           <div className="section">
             <h3>Kyle Reynolds</h3>
             <About/>
-            
-
-
           </div>
           <div className="section">
             <h3>Portfolio</h3>
@@ -37,6 +34,7 @@ const App = () => (
           </div>
           <div className="section">
             <h3>Resume</h3>
+            <Resume/>
           </div>
           <div className="section">
             <h3>Contact</h3>

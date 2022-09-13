@@ -11,9 +11,9 @@ function About() {
         />
       </div>
       <div>
-        <p className=" pt-10 flex flex-row justify-center space-x-10 ">
+        <h2 className=" pt-10 flex flex-row justify-center space-x-10 ">
           Full Stack Web Developer
-        </p>
+        </h2>
       </div>
       <div class= 'pt-10 flex flex-row justify-center space-x-10'>
         <svg
