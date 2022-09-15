@@ -29,15 +29,15 @@ const App = () => (
             <About/>
           </div>
           <div className="section">
-            <h3>Portfolio</h3>
+            <h4>Portfolio</h4>
             <Portfolio/>
           </div>
           <div className="section">
-            <h3>Resume</h3>
+            <h4>Resume</h4>
             <Resume/>
           </div>
           <div className="section">
-            <h3>Contact</h3>
+            <h4>Contact</h4>
             <Contact/>
           </div>
         </div>

@@ -6,7 +6,7 @@ function Contact() {
     <div class= " pt-10 flex flex-row justify-center space-x-10 ">
               <a href= "https://www.linkedin.com/in/kyle-reynolds-b5a948231/" target="_blank" rel="noopener noreferrer">
               <svg
-                class="w-12 h-12 text-blue-500 fill-white cursor-pointer hover:animate-bounce"
+                class="w-12 h-12 text-blue-500 fill-white cursor-pointer hover:-translate-y-1 hover:scale-110"
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 448 512"
               >
@@ -20,7 +20,7 @@ function Contact() {
                 viewBox="0 0 24 24"
                 stroke-width="1.5"
                 stroke="currentColor"
-                class="w-12 h-12 text-white-500 fill-white cursor-pointer hover:animate-bounce"
+                class="w-12 h-12 text-white-500 fill-white cursor-pointer hover:-translate-y-1 hover:scale-110"
               >
                 <path
                   stroke-linecap="round"
@@ -36,7 +36,7 @@ function Contact() {
                 viewBox="0 0 24 24"
                 stroke-width="1.5"
                 stroke="currentColor"
-                class="w-12 h-12 text-white-500 fill-white cursor-pointer hover:animate-bounce"
+                class="w-12 h-12 text-white-500 fill-white cursor-pointer hover:-translate-y-1 hover:scale-110"
               >
                 <path
                   stroke-linecap="round"
