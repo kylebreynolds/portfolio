@@ -2,8 +2,8 @@ import React from "react";
 
 function Portfolio() {
   return (
-    <div class="pt-10 flex flex-row justify-center  space-x-10">
-      <div class="w-1/5">
+    <div class="lg:pt-10 flex flex-row justify-center space-x-10">
+      <div class="w-1/5 justify-self-auto">
         <a
           href="https://burrochili.herokuapp.com/"
           target="_blank"
@@ -12,29 +12,29 @@ function Portfolio() {
           <img
             class="thumbnails hover:drop-shadow-2xl"
             alt="profile-pic"
-            src={require("../assets/burroapp.png")}
+            src={require("../assets/burroiphone.png")}
           />
         </a>
         <h2>Burro Chili</h2>
         <p class="">
-          Simple sign up landing page<br></br>built in React
+          React
         </p>
       </div>
       <div class="w-1/5">
         <a
-          href="https://www.myjunkwaxbox.com/"
+          href="https://smartest-book.herokuapp.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
           <img
             class="thumbnails hover:drop-shadow-2xl"
             alt="profile-pic"
-            src={require("../assets/junkwaxiphone.png")}
+            src={require("../assets/smartbookiphone.png")}
           />
         </a>
-        <h2>Junk Wax Box</h2>
+        <h2>Smart Book</h2>
         <p>
-          Built/designed/managed<br></br> using Wix/Velo
+          MySQL, Node.js, Express.js
         </p>
       </div>
       <div class="w-1/5">
@@ -46,12 +46,12 @@ function Portfolio() {
           <img
             class="thumbnails hover:drop-shadow-2xl"
             alt="profile-pic"
-            src={require("../assets/cookiphoneshadow.png")}
+            src={require("../assets/cookiphone.png")}
           />
         </a>
         <h2>Cook</h2>
         <p>
-          Built in React<br></br> Express.js, graphql
+          React, Express.js, graphql
         </p>
       </div>
       

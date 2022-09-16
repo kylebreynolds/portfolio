@@ -5,24 +5,19 @@ function About() {
     <div>
       <div>
         <h2 className=" pt-5 flex flex-row justify-center space-x-10 ">
-          Full Stack Web Developer
+          Full Stack Engineer
         </h2>
       </div>
       <div class="flex justify-center flex-rowspace-x-10 ">
         <img
           class="profile-pic"
           alt="profile-pic"
-          src={require("../assets/profilepic3d.png")}
+          src={require("../assets/profilepic.png")}
         />
       </div>
       <div class="px-20">
         <p>
-          Developing writers can often benefit from examining an essay, a
-          paragraph, or even a sentence to determine what makes it effective. On
-          the following pages are several paragraphs for you to evaluate on your
-          own, along with the Writing Center's explanation. Note: These passages
-          are excerpted from actual student papers and retain the original
-          wording.
+          Full Stack Engineer with a background in sales and management.  Recent Kansas University graduate in Full Stack Web Development.  
         </p>
       </div>
       
