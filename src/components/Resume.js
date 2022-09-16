@@ -11,7 +11,7 @@ function Resume() {
     </div>
     <div class="">
     <h4 class="pb-10">Resume</h4>
-    <a href="testpdf.pdf" download>
+    <a href="KyleReynoldsResume.pdf" download>
       <button class="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded inline-flex items-center">
         <svg
           class="fill-current w-4 h-4 mr-2"
