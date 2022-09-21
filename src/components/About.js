@@ -15,9 +15,14 @@ function About() {
           src={require("../assets/profilepic.png")}
         />
       </div>
-      <div class="px-20">
+      <div class="pb-10 px-20">
         <p>
           Full Stack Engineer with a background in sales and management.
+        </p>
+      </div>
+      <div class="px-20">
+        <p>
+          Skills: HTML, CSS JavaScript, React.js, MySQL, Express.js, Node.js, MongoDB, GraphQL, Git, Adobe Photoshop.
         </p>
       </div>
       
