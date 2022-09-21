@@ -8,9 +8,8 @@ A React portfolio for Kyle Reynolds.
 ## Table of Contents
 
 - [Website](#website)
-- [Usage](#usage)
 - [Technologies](#technologies)
-- [Questions](#questions)
+- [Contributors](#contributors)
 
 ## Website
 
@@ -26,7 +25,7 @@ This app uses the following technologies:
 - [Fullpage](https://alvarotrigo.com/fullPage/)
 
 
-#### Contributors:
+## Contributors:
 
 Kyle Reynolds
 
