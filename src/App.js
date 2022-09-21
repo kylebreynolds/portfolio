@@ -25,11 +25,11 @@ const App = () => (
       return (
         <div>
           <div className="section">
-            <h3>Kyle Reynolds</h3>
+            <h3 className="drop-shadow-lg">Kyle Reynolds</h3>
             <About/>
           </div>
           <div className="section">
-            <h4>Projects</h4>
+            <h4 class="drop-shadow-lg">Projects</h4>
             <Portfolio/>
           </div>
           <div className="section">

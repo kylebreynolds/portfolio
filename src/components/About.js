@@ -8,16 +8,16 @@ function About() {
           Full Stack Engineer
         </h2>
       </div>
-      <div class="flex justify-center flex-rowspace-x-10 ">
+      <div className="flex justify-center flex-rowspace-x-10 ">
         <img
-          class="profile-pic"
+          class="profile-pic drop-shadow-lg"
           alt="profile-pic"
           src={require("../assets/profilepic.png")}
         />
       </div>
       <div class="px-20">
         <p>
-          Full Stack Engineer with a background in sales and management.  Recent Kansas University graduate in Full Stack Web Development.  
+          Full Stack Engineer with a background in sales and management.
         </p>
       </div>
       
