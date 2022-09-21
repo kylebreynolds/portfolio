@@ -1,10 +1,12 @@
 import React from "react";
 import ReactFullpage from "@fullpage/react-fullpage";
 import "./index.css";
-import About from "./components/About";
 
+import About from "./components/About";
 import Portfolio from "./components/Portfolio";
 import Resume from "./components/Resume";
+
+
 const anchors = ["About", "Portfolio", "Resume"];
 
 const App = () => (
@@ -15,7 +17,7 @@ const App = () => (
     navigation
     navigationTooltips={anchors}
     navigat
-    sectionsColor={["#003f63", "#28666e", "#7c9885"]}
+    sectionsColor={["#003f63", "#28666e", "#7c9885" ]}
     onLeave={(origin, destination, direction) => {
       console.log("onLeave event", { origin, destination, direction });
     }}
