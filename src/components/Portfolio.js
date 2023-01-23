@@ -22,19 +22,19 @@ function Portfolio() {
       </div>
       <div class="w-1/5 ">
         <a
-          href="https://smartest-book.herokuapp.com/"
+          href="https://www.commonjoinery.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
           <img
             class="thumbnails hover:drop-shadow-2xl"
             alt="profile-pic"
-            src={require("../assets/smartbookiphone.png")}
+            src={require("../assets/cjiphone.png")}
           />
         </a>
-        <h2>Smart Book</h2>
+        <h2>Common Joinery</h2>
         <p class="break-normal">
-          Online bookstore made with React, MySQL, Express.js, Node.js
+          Company website built/designed using Wix.
         </p>
       </div>
       <div class="w-1/5 ">
